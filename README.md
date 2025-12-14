@@ -3,7 +3,7 @@
 <!-- ===================== -->
 
 <p align="center">
-  <img src="ER.jpg" width="85%" alt="SHEFAA Banner"/>
+  <img src="SHEFAA.png" width="85%" alt="SHEFAA Banner"/>
 </p>
 
 <h1 align="center">🏥 SHEFAA</h1>
