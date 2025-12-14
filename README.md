@@ -186,6 +186,7 @@ SHEFAA/
 │
 └── README.md
 ```
+---
 🔐 Roles & Access Control
 Role	Permissions
 Patient	Register, book appointments, view history
@@ -194,7 +195,7 @@ Admin	Full system control
 
 ✔ Authentication required
 ✔ Role-based authorization enforced
-
+---
 🧠 Design Patterns
 🔹 Singleton Pattern
 
@@ -203,7 +204,7 @@ Used in DBConnection
 Ensures a single database connection
 
 Improves performance & consistency
-
+---
 🔹 MVC Architecture
 
 Model: Database & business logic
@@ -211,7 +212,7 @@ Model: Database & business logic
 View: GUI interfaces
 
 Controller: Service classes
-
+---
 🧪 Testing Strategy
 
 Unit Testing (Login, DB)
@@ -225,7 +226,7 @@ Boundary Value Testing
 White Box (Path Coverage)
 
 Usability Testing
-
+---
 🔮 Future Enhancements
 
 🤖 AI-based medical diagnosis
@@ -237,7 +238,7 @@ Usability Testing
 🌍 Multi-branch hospital support
 
 🌐 Arabic / English localization
-
+---
 📄 Documentation
 
 📘 SRS
@@ -245,7 +246,7 @@ Usability Testing
 📊 Final Presentation
 
 All available inside the repository.
-
+---
 👥 Team & Credits
 
 Course: Software Engineering
